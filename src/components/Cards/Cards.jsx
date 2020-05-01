@@ -2,7 +2,7 @@ import React from 'react'
 
 const Cards = () => {
   return (
-    <div data-test="component-cards">Cards</div>
+    <h1 data-test="component-cards">Cards</h1>
   )
 }
 
