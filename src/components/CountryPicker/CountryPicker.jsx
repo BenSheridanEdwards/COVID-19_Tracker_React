@@ -2,7 +2,7 @@ import React from 'react'
 
 const Cards = () => {
   return (
-    <div data-test="component-country-picker">Cards</div>
+    <h1 data-test="component-country-picker">CountryPicker</h1>
   )
 }
 
