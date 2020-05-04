@@ -1,9 +1,10 @@
-import React from 'react'
+import React, { useState, useEffect } from 'react'
+import { NativeSelect, FormControl } from '@material-ui/core'
 
-const Cards = () => {
+const CountryPicker = () => {
   return (
-    <h1 data-test="component-country-picker">CountryPicker</h1>
+    <div data-test="component-country-picker">CountryPicker</div>
   )
 }
 
-export default Cards
+export default CountryPicker
