@@ -4,6 +4,14 @@
 
 ## <a name="description">Description</a>
 
+COVID-19 Tracker with React Hooks, Material UI &amp; Charts.js
+
+Uses the COVID-19 API to fetch daily data on the reported number of cases of people who are currently infected, have recovered and those who have sadly died from the virus. 
+
+By default, you'll see current world figures on a line graph, but by using a drop-down menu you can filter by country and see bar graphs showing up to date figures on those infected, recovered, and the deaths from COVID-19. 
+
+**Tech Stack:** *JavaScript, React, Node, CSS, Material-UI, HTML, Jest, Enzyme, Webpack, Babel, Charts.js, CircleCI, Code Climate, Firebase*
+
 You'll find the app [here](), use cmd/window + click to open in a new tab.
 
 ## <a name="user-stories">User Stories</a>
