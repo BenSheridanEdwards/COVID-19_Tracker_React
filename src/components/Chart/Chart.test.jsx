@@ -2,7 +2,7 @@ import React from 'react';
 import Enzyme, { shallow } from 'enzyme';
 import { findByTestAttr } from '../../test/testUtils';
 
-import Chart from './Chart';
+import Chart from './Chart.jsx';
 
 const setup = (props={}) => {
   const wrapper = shallow(<Chart {...props} />)
