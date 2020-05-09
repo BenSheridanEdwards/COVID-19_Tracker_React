@@ -26,7 +26,7 @@
   "scripts": {
     "start": "yarn react-scripts start",
     "build": "yarn react-scripts build",
-    "test": "yarn eact-scripts test",
+    "test": "yarn react-scripts test",
     "test:coverage": "set CI=true && yarn react-scripts test --coverage",
     "eject": "yarn react-scripts eject"
   },
