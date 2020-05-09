@@ -24,10 +24,10 @@ jobs:
           key: yarn-packages-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
       - run:
             name: Build Project
-            command: yarn run-script build
+            command: yarn build
       - run:
             name: Run Tests
-            command: yarn run-script test
+            command: yarn test
       # - run:
       #       name: Setup Code Climate test-reporter
       #       command: |
