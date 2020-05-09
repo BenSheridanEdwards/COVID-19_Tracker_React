@@ -43,28 +43,28 @@ $ cd COVID-19_Tracker_React
 
 ### Launching the App from the Command Line
 
-From inside the React project, you can run `npm start` in the terminal to launch the app in the browser.
+From inside the React project, you can run `yarn start` in the terminal to launch the app in the browser.
 
 ```
-$ npm start
+$ yarn start
 ```
 
 Launching the app from the command line should open up a new tab in your default browser. If it doesn't, you can navigate to [http://localhost:3000](http://localhost:3000) to view the application.
 
 ### Running Tests
 
-From inside the React project, you can run `npm start` in the terminal to run the test suite. 
+From inside the React project, you can run `yarn start` in the terminal to run the test suite. 
 
 ```
-$ npm test
+$ yarn test
 ```
 
 ### Seeing Test Coverage
 
-From inside the React project, you can run 'npm test -- --coverage' in the terminal to see the code coverage for this project.
+From inside the React project, you can run 'yarn test -- --coverage' in the terminal to see the code coverage for this project.
 
 ```
-$ npm test -- --coverage
+$ yarn test -- --coverage
 ```
 
 ## <a name="credits">Credits</a>
