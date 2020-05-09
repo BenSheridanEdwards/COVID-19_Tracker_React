@@ -24,11 +24,11 @@
     "yarn": "^1.22.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "test:coverage": "set CI=true && react-scripts test --coverage",
-    "eject": "react-scripts eject"
+    "start": "yarn react-scripts start",
+    "build": "yarn react-scripts build",
+    "test": "yarn eact-scripts test",
+    "test:coverage": "set CI=true && yarn react-scripts test --coverage",
+    "eject": "yarn react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
