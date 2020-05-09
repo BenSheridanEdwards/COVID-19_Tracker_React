@@ -29,5 +29,5 @@ it('calls axios and returns data from the COVID-19 api', async () => {
   wrapper.instance().componentDidMount()
   expect(mockAxios.get).toHaveBeenCalledTimes(3);
   expect(mockAxios.get).toHaveBeenCalledWith("https://covid19.mathdro.id/api")
-  expect(wrapper.state()).toEqual({ data: {} })
+  expect(wrapper.state()).toEqual({ country: "", data: {} })
 })
