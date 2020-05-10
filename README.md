@@ -17,7 +17,13 @@ You'll find the app [here](), use cmd/window + click to open in a new tab.
 ## <a name="user-stories">User Stories</a>
 
 ```
+As a user of the COVID-19 Tracker, when I first start the app,
+I expect to see a line graph of the world data for cases of people who have been infected, recovered and sadly died from the virus.
+```
 
+```
+As a user of the COVID-19 Tracker, when I select a country from the drop-down menu,
+I expect to see a bar graph of the number of people who have been infected, recovered and have died from the virus in that country.
 ```
 
 ## <a name="mockups">Mockups</a>
