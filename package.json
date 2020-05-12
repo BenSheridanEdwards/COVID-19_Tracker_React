@@ -51,7 +51,9 @@
       "!**/node_modules/**",
       "!**/coverage/**",
       "!**/serviceWorker.js",
-      "!**/index.js"
+      "!**/index.js",
+      "!**/setupTests.js",
+      "!**/test/**"
     ]
   }
 }
