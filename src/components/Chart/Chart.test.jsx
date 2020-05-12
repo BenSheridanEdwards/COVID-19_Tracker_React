@@ -10,7 +10,7 @@ const setup = (props={}) => {
 }
 
 it('renders chart component without error', () =>{
-  const wrapper = setup();
+  const wrapper = setup( { data: { confirmed: 1000000, recovered: 900000, deaths: 100000} });
   const chartComponent = findByTestAttr(wrapper, 'component-chart');
   expect(chartComponent.length).toBe(1);
 });
