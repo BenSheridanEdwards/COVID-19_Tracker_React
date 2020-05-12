@@ -12,7 +12,7 @@ By default, you'll see a line graph, showing the collated data from all over the
 
 **Tech Stack:** *JavaScript, React, Node, CSS, Material-UI, HTML, Jest, Enzyme, Webpack, Babel, Charts.js, CircleCI, Code Climate, Firebase*
 
-You'll find the app [here](), use cmd/window + click to open in a new tab.
+You'll find the app [here](https://covid-19-tracker-react.web.app/), use cmd/window + click to open in a new tab.
 
 ## <a name="user-stories">User Stories</a>
 
