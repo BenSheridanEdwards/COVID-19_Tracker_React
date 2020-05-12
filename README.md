@@ -4,7 +4,7 @@
 
 ## <a name="description">Description</a>
 
-COVID-19 Tracker with React Hooks, Material UI &amp; Charts.js
+COVID-19 Tracker made with React Hooks, Chart.js, and Material-UI.
 
 Uses the COVID-19 API to fetch daily data on the reported number of infected, recovered and deaths from the Coronavirus. 
 
