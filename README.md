@@ -32,7 +32,13 @@ I expect to see a bar graph of the number of people who have been infected, reco
 
 ## <a name="app-showcase">App Showcase</a>
 
-![App Screenrecording]()
+Select your desired country from the drop down menu:
+
+![CountryPickerDropDown](https://github.com/BenSheridanEdwards/COVID-19_Tracker_React/blob/master/src/images/CountryPicker.png)
+
+See global figures as a line graph, and individual country figures as a bar graph:
+
+![App Screenrecording](https://github.com/BenSheridanEdwards/COVID-19_Tracker_React/blob/master/src/images/AppShowcase-COVID-19-Tracker.gif)
 
 ### <a name="features">Features</a>
 
