@@ -63,7 +63,7 @@ const Chart = ({ data: { confirmed, recovered, deaths }, country }) => {
 
   return (
     <div className={styles.container} data-test="component-chart">
-      { country ? barChart : lineChart }
+      { country !== 'global' || null ? barChart : lineChart }
     </div>
   );
 };
