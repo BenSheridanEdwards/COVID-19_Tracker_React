@@ -28,7 +28,13 @@ I expect to see a bar graph of the number of people who have been infected, reco
 
 ## <a name="mockups">Mockups</a>
 
-![COVID-19 Tracker Mockups]()
+When the user first loaded the app, they'll see the global figures on a line graph:
+
+![COVID-19 Tracker Mockup Global Line Graph](https://github.com/BenSheridanEdwards/COVID-19_Tracker_React/blob/master/src/images/AppMockup-LineGraph.png)
+
+Upon selected a country, they'll see a countries figures on a bar graph:
+
+![COVID-19 Tracker Mockup Country Bar Graph](https://github.com/BenSheridanEdwards/COVID-19_Tracker_React/blob/master/src/images/AppMockup-BarGraph.png)
 
 ## <a name="app-showcase">App Showcase</a>
 
