@@ -34,8 +34,6 @@ I expect to see a bar graph of the number of people who have been infected, reco
 
 Select your desired country from the drop down menu:
 
-![CountryPickerDropDown](https://github.com/BenSheridanEdwards/COVID-19_Tracker_React/blob/master/src/images/CountryPicker.png =100x20)
-
 <img src="https://github.com/BenSheridanEdwards/COVID-19_Tracker_React/blob/master/src/images/CountryPicker.png" width="200" height="400" />
 
 See global figures as a line graph, and individual country figures as a bar graph:
