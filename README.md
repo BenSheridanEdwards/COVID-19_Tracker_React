@@ -1,4 +1,4 @@
-# COVID-19 Tracker React
+# COVID-19 Tracker
 
 [![CircleCI](https://circleci.com/gh/BenSheridanEdwards/COVID-19_Tracker_React.svg?style=svg)](https://circleci.com/gh/BenSheridanEdwards/COVID-19_Tracker_React)
 
