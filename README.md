@@ -1,6 +1,7 @@
 # COVID-19 Tracker
 
 [![CircleCI](https://circleci.com/gh/BenSheridanEdwards/COVID-19_Tracker_React.svg?style=svg)](https://circleci.com/gh/BenSheridanEdwards/COVID-19_Tracker_React)
+[![Maintainability](https://api.codeclimate.com/v1/badges/bbd52586d925b63f9ea2/maintainability)](https://codeclimate.com/github/BenSheridanEdwards/COVID-19_Tracker_React/maintainability)
 
 [Description](#description) | [User Stories](#user-stories) | [Mockups](#mockups) | [App Showcase](#app-showcase) | [Features](#features) | [Improvements](#improvements) | [Installation Instructions](#installation) | [Credits](#credits)
 
