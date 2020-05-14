@@ -48,7 +48,21 @@ See global figures as a line graph, and individual country figures as a bar grap
 
 ### <a name="features">Features</a>
 
-### <a name="improvements">Improvements</a>
+- See global data for those infected and those who have died from COVID-19
+- Select a country, and see its data for the number of infected cases, the number of cases of people who have recovered and the number of people who have died from COVID-19 
+
+### <a name="improvements">Improvements & Bugs</a>
+
+#### Improvements
+
+- Project logo
+  - Higher Quality Image
+  - Might just use the words 'COVID-19 Tracker', with a cartoon image of a virus, and remove the emoji completely
+
+#### Bugs
+
+- App crashes when a user attempts to switch back the global figures after selecting a country
+
 
 ## <a name="installation">Installation Instructions</a>
 
