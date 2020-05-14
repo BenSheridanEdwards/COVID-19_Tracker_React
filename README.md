@@ -38,13 +38,13 @@ Upon selecting a country, they'll see that country's figures on a bar graph:
 
 ## <a name="app-showcase">App Showcase</a>
 
-Select your desired country from the drop down menu:
-
-<img src="https://github.com/BenSheridanEdwards/COVID-19_Tracker_React/blob/master/src/images/CountryPicker.png" width="200" height="400" />
-
-See global figures as a line graph, and individual country figures as a bar graph:
+See global figures as a line graph, and select individual countries to see their figures on a bar graph:
 
 ![App Screenrecording](https://github.com/BenSheridanEdwards/COVID-19_Tracker_React/blob/master/src/images/AppShowcase-COVID-19-Tracker.gif)
+
+Country picker drop down menu:
+
+<img src="https://github.com/BenSheridanEdwards/COVID-19_Tracker_React/blob/master/src/images/CountryPicker.png" width="200" height="400" />
 
 ### <a name="features">Features</a>
 
