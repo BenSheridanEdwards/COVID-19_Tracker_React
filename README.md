@@ -1,5 +1,7 @@
 # COVID-19 Tracker React
 
+[![CircleCI](https://circleci.com/gh/BenSheridanEdwards/COVID-19_Tracker_React.svg?style=svg)](https://circleci.com/gh/BenSheridanEdwards/COVID-19_Tracker_React)
+
 [Description](#description) | [User Stories](#user-stories) | [Mockups](#mockups) | [App Showcase](#app-showcase) | [Features](#features) | [Improvements](#improvements) | [Installation Instructions](#installation) | [Credits](#credits)
 
 ## <a name="description">Description</a>
