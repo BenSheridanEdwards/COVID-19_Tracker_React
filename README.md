@@ -88,7 +88,7 @@ Launching the app from the command line should open up a new tab in your default
 
 ### Running Tests
 
-From inside the React project, you can run `yarn start` in the terminal to run the test suite. 
+From inside the React project, you can run `yarn test` in the terminal to run the test suite. 
 
 ```
 $ yarn test
