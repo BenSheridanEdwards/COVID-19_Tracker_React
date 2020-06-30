@@ -21,10 +21,10 @@ it("calls axios and returns data from the COVID-19 api", async () => {
   mockAxios.get.mockImplementationOnce(() =>
     Promise.resolve({
       data: {
-        confirmed,
-        recovered,
-        deaths,
-        lastUpdate
+        confirmed: {},
+        recovered: {},
+        deaths: {},
+        lastUpdate: {}
       }
     })
   );
